@@ -8,7 +8,8 @@ Welcome to the Rock-Paper-Scissors game! 🤘📄✂️
 
 ## 📸 Screenshots
 
-![Gameplay Screenshot](images/gameplay.png)
+![Gameplay Screenshot](screenshots/gamePlay_lightMode.png)
+![Gameplay Screenshot](screenshots/gamePlay_darkMode.png)
 
 
 ## 📦 Installation
